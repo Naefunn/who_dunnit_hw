@@ -1,4 +1,4 @@
- #### Episode 1
+ ### Episode 1
 
  The output will be the string in the return statement with 'Miss Scarlet' as the variable. Nothing is being changed so the keyword const is okay. 
  The function is returning the object, calling on the murderer key and then being printed to the console.
